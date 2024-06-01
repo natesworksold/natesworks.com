@@ -1,9 +1,9 @@
 ---
 external: false
 draft: false
-title: Oops...
-description: I accidently wiped /lib
+title: Same thing all over again
+description: SwiftOS development restarted again
 date: 2024-06-01
 ---
 
-I accidently removed /lib which broke my vm... basically i misread "mv" as "rm" and instead of moving libzstd to /lib I removed /lib. Now my vm can't boot. To make this even dumber I removed my vm thinking this was unrecoverable, but now I relealised I could've kept the partition containing SwiftOS.
+SwiftOS development has been restarted once again for multiple reasons. The biggest one is due to problems with multiple libraries "succesfully" compiling, but other packages depending on it saying it's corrupted. Recompiling didn't work and after an hour of debugging I decided to restart development.
