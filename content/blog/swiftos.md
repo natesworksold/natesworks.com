@@ -2,7 +2,7 @@
 external: false
 draft: false
 title: SwiftOS
-description: 
+description: A GNU/Linux distribution 
 date: 2024-06-05
 ---
 
