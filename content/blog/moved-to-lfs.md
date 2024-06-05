@@ -1,6 +1,6 @@
 ---
 external: false
-draft: false
+draft: true
 title: Development status update
 description: SwiftOS is being made from scratch in lfs.
 date: 2024-05-28

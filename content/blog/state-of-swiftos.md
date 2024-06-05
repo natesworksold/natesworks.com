@@ -1,6 +1,6 @@
 ---
 external: false
-draft: false
+draft: true
 title: State of SwiftOS
 description: An update of the current state of SwiftOS
 date: 2024-05-31

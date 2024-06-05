@@ -1,6 +1,6 @@
 ---
 external: false
-draft: false
+draft: true
 title: Same thing all over again
 description: SwiftOS development restarted again
 date: 2024-06-01
