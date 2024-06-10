@@ -10,5 +10,4 @@ SwiftOS is a GNU/Linux distribution made from scratch. It uses the brand new "bi
 
 **Last edited:** Jun 10, 2024
 
-
 **Changes made:** Add release date
