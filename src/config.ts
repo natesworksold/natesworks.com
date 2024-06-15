@@ -3,7 +3,7 @@
 
 export const SITE_TITLE = "Natesworks Blog";
 export const SITE_DESCRIPTION =
-  "Welcome to Natesworks Blog, where we discuss C++, C#, Python, and the development of a brand new GNU/Linux distributon - SwiftOS.";
+  "A blog where I discuss topics related to C++, C#, Python, and the development of SwiftOS.";
 export const TWITTER_HANDLE = "@natesworks";
 export const MY_NAME = "Natesworks";
 
