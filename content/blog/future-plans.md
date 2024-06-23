@@ -1,6 +1,6 @@
 ---
 external: false
-draft: false
+draft: true
 title: Future plans of SwiftOS
 description: The future plans of SwiftOS 
 date: 2024-06-16
